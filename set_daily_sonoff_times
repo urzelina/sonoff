@@ -1,0 +1,2 @@
+1 11 * * * root /usr/local/bin/set_daily_sonoff_times.py
+
